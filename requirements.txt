@@ -1,0 +1,6 @@
+gtts
+requests
+textblob
+gradio
+deeptranslator
+googletranslator
